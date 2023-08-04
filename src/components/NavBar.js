@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <div
       style={{
-        borderBottom: "2px solid black",
+        borderbottom: "2px solid black",
         paddingBottom: "10px",
         marginBottom: "12px",
       }}
